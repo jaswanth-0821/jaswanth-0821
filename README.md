@@ -12,16 +12,20 @@
 
 <br>
 <br>
-<a href="" target="blank">
+
+
 ### - connect with me ...
-<p align="left">
+<p align="center">
   
-  <a href="https://www.linkedin.com/in/jaswanth-reddy-p-bb9ba0200" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="email" style="vertical-align:top; margin:4px" ></a>
-  <a href="" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/jaswanth-reddy-p-bb9ba0200" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkdin" style="vertical-align:top; margin:4px"></a>
+  <a href="" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="email" style="vertical-align:top; margin:4px" ></a> 
+  <a href="https://www.instagram.com/jaswanth_reddy___pj/" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:4px"></a>
   <a href="https://t.me/PJ_034" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px"></a>
   <a href="" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px"></a>
   
 </p>
+
+<br>
 
 ### - Languages and Tools...
 <p align="left">
@@ -38,7 +42,10 @@
   
 </p>
 
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaswanth-0821&show_icons=true&locale=en" alt="jaswanth-0821" width="450" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanth-0821&show_icons=true&locale=en&layout=compact" alt="jaswanth-0821" heigth = "350" width ="350" /></p>
+
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-0821&" alt="jaswanth-0821" /></p>
 

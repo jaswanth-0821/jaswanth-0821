@@ -38,14 +38,11 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" idth="40" height="38 bgcolor = "white"alt="office" style="vertical-align:top; margin:4px">
 
-  
-  
 </p>
 
+<br>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanth-0821&show_icons=true&locale=en&layout=compact" alt="jaswanth-0821"  width="450"  right="450" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaswanth-0821&show_icons=true&locale=en" alt="jaswanth-0821" width="450" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanth-0821&show_icons=true&locale=en&layout=compact" alt="jaswanth-0821" heigth = "350" width ="350" /></p>
-
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-0821&" alt="jaswanth-0821" /></p>
 

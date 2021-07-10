@@ -32,11 +32,15 @@
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="38" alt="c" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="38" alt="c++" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/jaswanth-0821/jaswanth-0821/blob/main/sublime-text.svg" width="40" height="35" bgcolor = "white"alt="sublimetext" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/jaswanth-0821/jaswanth-0821/blob/main/photoshop-cc-4.svg" width="40" height="35" bgcolor = "white"alt="photoshop" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="hakerrank" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" idth="40" height="38 bgcolor = "white"alt="office" style="vertical-align:top; margin:4px">
+  
+ 
 
 </p>
 

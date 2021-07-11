@@ -1,5 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<h1 align="center">Hi 👋, I'm Jaswanth Reddy</h1>
+<h1 align="center">Hi   <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"> , I'm Jaswanth Reddy</h1>
 <h3 align="center">A EE Student from IIT Tirupati India</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth-0821&label=Profile%20views&color=green&style=flat" alt="jaswanth-0821" /> </p>

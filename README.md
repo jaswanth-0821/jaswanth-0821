@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth-0821&label=Profile%20views&color=green&style=flat" alt="jaswanth-0821" /> </p>
 
-- I’m currently working on ***2048 game using GUI toolkit tkinter*** and ***virtual wall clock using GUI toolkit tkinter***.
+- I’m looking to collaborate on **python related projects**.
 - I’m interested in machine learning , coding.
 - I’m currently learning advanced python and mathematics background for machine learning .
 - I’m looking to collaborate on **python related projects**.

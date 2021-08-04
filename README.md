@@ -10,7 +10,6 @@
 - I’m looking to collaborate on **python related projects**.
 - I’m interested in machine learning , coding.
 - I’m currently learning advanced python and mathematics background for machine learning .
-- I’m looking to collaborate on **python related projects**.
 - To reach me **jassu0821p@gmail.com** / **ee20b034@iittp.com**.
 
 <br>

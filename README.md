@@ -20,10 +20,10 @@
 <p align="center">
   
   <a href="https://www.linkedin.com/in/jaswanth-reddy-p-bb9ba0200" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkdin" style="vertical-align:top; margin:4px"></a>
-  <a href="" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="email" style="vertical-align:top; margin:4px" ></a> 
+  <a href="EE20B034@iittp.ac.in" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="email" style="vertical-align:top; margin:4px" ></a> 
   <a href="https://www.instagram.com/jaswanth_reddy___pj/" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:4px"></a>
   <a href="https://t.me/PJ_034" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px"></a>
-  <a href="" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px"></a>
+  <a href="https://chat.whatsapp.com/F13lNYY695ADMMn6WnWpoW" target="blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:4px"></a>
   
 </p>
 
@@ -40,7 +40,9 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" alt="hakerrank" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" idth="40" height="38 bgcolor = "white"alt="office" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="office" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="office" style="vertical-align:top; margin:4px">
+     
   
  
 

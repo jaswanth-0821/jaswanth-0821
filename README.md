@@ -59,9 +59,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-0821&" alt="jaswanth-0821" /></p>
 </p>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanth-0821&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanth-0821&theme=nord_bright" />
 
-![Jaswanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaswanth-0821&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Jaswanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaswanth-0821&theme=white&layout=compact&title_color=FF69B4&hide_border=true&area=true&bg_color=F9F9F9&area_color=A4EBF3&line=005A8D&color=2C394B)
         
 
 

@@ -42,7 +42,8 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="office" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="office" style="vertical-align:top; margin:4px">
-     
+  
+   
   
  
 
@@ -56,9 +57,14 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanth-0821&show_icons=true&locale=en&layout=compact" alt="jaswanth-0821"  width="300"   /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswanth-0821&show_icons=true&locale=en" alt="jaswanth-0821" width="400" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-0821&" alt="jaswanth-0821" /></p>
-
 </p>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanth-0821&theme=dracula" />
+
+![Jaswanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaswanth-0821&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
         
+
+
                                                                                                                       
 <br>
                                                                                                                       

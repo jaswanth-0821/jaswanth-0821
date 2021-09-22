@@ -9,7 +9,7 @@
 
 - I’m looking to collaborate on **python related projects**.
 - I’m interested in machine learning , coding.
-- I’m currently learning advanced python , django and DSA.
+- I’m currently  DSA,java script.
 - To reach me **jassu0821p@gmail.com** / **ee20b034@iittp.com**.
 
 <br>

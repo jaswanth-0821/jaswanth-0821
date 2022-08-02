@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth-0821&label=Profile%20views&color=green&style=flat" alt="jaswanth-0821" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanth-0821&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 - I’m looking to collaborate on **python related projects**.
 - I’m interested in machine learning , coding.
 - I’m currently  DSA,java script.
@@ -61,7 +63,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-0821&" alt="jaswanth-0821" /></p>
 </p>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanth-0821&theme=nord_bright" />
+
 
 ![Jaswanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaswanth-0821&theme=white&layout=compact&title_color=FF69B4&hide_border=true&area=true&bg_color=F9F9F9&area_color=A4EBF3&line=005A8D&color=2C394B)
         
